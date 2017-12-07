@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: StudentResult-Service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: root
+Implementation-Vendor-Id: com.spring.results
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/StudentResul
+ t-Service/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
